@@ -1,4 +1,10 @@
 
 body {
-    background-color: #30162a;
+    background-color: #f8beeb;
+}
+.passo {
+    display: none;
+}
+.passo.ativo{
+    display:block;
 }
